@@ -1,5 +1,5 @@
 # Expense_Tracker
-Demonstration on how you can use Lambda Functions for efficient, streamlined operations.
+A demonstration on how you can use Lambda Functions for efficient, streamlined operations.
 
 # 🧾 Expense Tracker CLI
 
